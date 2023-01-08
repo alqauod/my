@@ -1,168 +1,23 @@
-Pick one square that shows two identical objects
-ff
-fsfd
-sdfsdf
-sf
-fs
-fsd
-fsf
-sdf
-sddf
-sd
-fsd
-fsd
-df
-sf
-sddf
-sddf
-sf
-sdf
-sdd
-f
-f
-f
-f
-f
-sdffsdf.d
-fdf
-sddfsdd
-fsddffffs
+Automatizing part of literature search in systematic reviews
+Building AI course project
 
-##Summary
-README.md
-dfsssss
-dsfsdfsdf
-README.md
-s
-df
-sf
-s
-f
-f
-sdf
-s
-f
-sdf
-s
-f
-sd
-fs
-df
-s
-df
-sdf
+Summary
+The AI would be trained to automatically exclude literature articles that are clearly outside of the scope of the research, and extract the abstracts, names and years of the more suitable articles in a clear format for the researchers to review.
 
-gfdggfg
-g
-dfg
-df
-gdf
-g
-dg
-dfg
-fdg
-df
-g
-fdfg
-fd
-gd
-g
-g
-#vfg
-fdg
-dd
-g
-dgd
-gdfgdgg
-d
-gd
-g
-df
-gdf
-g
-dffg
+Background
+Literature search in academic systematic reviews is extremely time consuming when done manually. Good quality systematic reviews often take years. Some parts are necessary to do manually, as the researchers need to use their own judgement, but the first parts of the literature search are very easy to do and AI could be trained to do it automatically. As far as I know, all systematic reviews are done mostly manually, so the problem is very common in academia. From my own experience, the first stages of literature review are very boring, and rationally it does not make sense to pay academic professionals for manually filling excels.
 
-fds
-d
-g
-g
+How is it used?
+My solution would be used in academia, so it would mostly affect academic professionals and students doing systematic reviews by reducing their workloads. It would also help systematic research to be published faster, which would have implications to whoever the research topic concerns.
 
-dsf
-gfd
-g
+Data sources and AI methods
+Data is retrieved from databases that are commonly used in systematic reviews, for example, Embase, PubMed, CINAHL, etc. Data would be peer reviewed articles and other academic papers. Term Frequency Inverse Document Frequency (tf-idf) would be used to determine the topic of the article, and information could be extracted by regular expressions.
 
+Challenges
+The solution does not automatize all stages of systematic reviews, so those stages would still have to be done manually.
 
-dfg
-df
-g
-gdfgfdgf
-f
+What next?
+The more accurate judgements the AI is capable of making from research articles, the more tasks in research can be automatized.
 
-fg
-d
-g
-fdg
-d
-fg
-fd
-g
-g
-df
-gg
-dg
-d
-fg
-d
-fg
-fg
-d
-
-fg
-df
-gd
-fg
-df
-g
-fg
-dfg
-df
-g
-f
-g
-fg
-dd
-Artificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awareness
-gdfg
-dg
-dg
-d
-g
-d
-g
-dg
-fdf
-g
-dfg
-d
-fg
-dfg
-d
-fg
-dfg
-d
-g
-dg
-
-d
-gd
-fg
-dffg
-df
-g
-dfg
-fd
-g
-dfg
-
-d
-Artificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awarenessArtificial intelligence has its pros and cons, and how to deal with it limits the negatives, and it must be controlled by people with experience and awareness
+Acknowledgments
+No sources used
