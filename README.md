@@ -2,6 +2,7 @@
 Building AI course project
 
 ##Summary
+
 The AI would be trained to automatically exclude literature articles that are clearly outside of the scope of the research, and extract the abstracts, names and years of the more suitable articles in a clear format for the researchers to review.
 
 ##Background
